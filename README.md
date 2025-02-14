@@ -1,16 +1,22 @@
-## Hi there 👋
+# Your Name
+## Your Title (e.g., Software Developer)
 
-<!--
-**mubashir-ul-islam/mubashir-ul-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 📫 How to reach me:
+- 💼 [LinkedIn](your-linkedin-url)
+- 🌐 [Portfolio/CV](your-github-pages-url)
+- ✉️ [Email](mailto:your-email)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Programming Languages: (e.g., Python, JavaScript, Java)
+- Frontend: (e.g., HTML, CSS, React)
+- Backend: (e.g., Node.js, Django)
+- Databases: (e.g., MySQL, MongoDB)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+### 🔭 Current Projects
+- [Project 1](project-link) - Brief description
+- [Project 2](project-link) - Brief description
